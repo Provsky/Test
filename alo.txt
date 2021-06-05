@@ -1,5 +1,1 @@
-update master
-
-add line at master
-
-teste for rebase
+MASTER
